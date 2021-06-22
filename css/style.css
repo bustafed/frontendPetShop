@@ -1,0 +1,47 @@
+#topHeader {
+    background-color: black;
+    color:white;
+}
+
+#bottomHeader {
+    background-color: orange;
+    color:white;
+}
+
+span{
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+#tituloPrincipal {
+    text-align: center;
+    color: #3C2313;
+}
+
+footer {
+    font-family: 'Roboto', sans-serif;
+}
+
+.precio {
+    color: orange;
+}
+
+#finPag {
+    background-color: #3C2313;
+    color:white;
+}
